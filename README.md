@@ -10,7 +10,7 @@
 
 <br></br>
   ### 🏅 Certifications and Achievements
-  <a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url">![Javatpoint](images/google-cybersec-assoc.png) </a>
+  <a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url">![Google Cybersecurity Certificate](images/google-cybersec-assoc.png) </a>
 </div>
 
 
