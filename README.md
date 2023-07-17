@@ -3,8 +3,15 @@
 <h2 align='center'> <code>root@github:~$ whoami </code></h2>
 <p align='center'>Cybersecurity Enthusiast | Networking Geek | Cloud Computing | Blockchain Starter</p>
 
+<br></br>
 <div align='center'>
-<h3 align='center'>Hi there, welcome to my GitHub profile! 👋</h3>
-My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspire to delve further into the wide domain of cybersecurity, networking, and cloud computing. 
+  <h3>Hi there, welcome to my GitHub profile! 👋</h3>
+  <p>My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspire to delve further into the wide domain of cybersecurity (red/blue teaming), networking, cloud computing, and web3-based blockchain ecosystems.</p>
 </div>
+
+<br></br>
+<div align='center'>
+  <h3>🏅 Certifications and Achievements</h3>
+</div>
+
 
