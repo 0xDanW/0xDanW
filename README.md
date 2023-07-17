@@ -4,7 +4,8 @@
 <p align='center'>Cybersecurity Enthusiast | Networking Geek | Cloud Computing | Blockchain Starter</p>
 
 <br></br>
+<div align='center'>
 <h3 align='center'>Hi there, welcome to my GitHub profile! 👋</h3>
-
-My name is Daniel Wong, current a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur.
+My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. 
+</div>
 
