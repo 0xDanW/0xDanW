@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=00FF5B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=0xDanW)](https://git.io/typing-svg)
 
-<h3 color='green' align='center'> root@github:~$ whoami </h3>
+<h4 align='center'> root@github:~$ whoami </h4>
 
 ### Hi there, welcome to my GitHub profile! 👋
 
