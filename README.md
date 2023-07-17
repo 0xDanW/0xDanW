@@ -13,7 +13,7 @@
 <div align='center'>
   <h3>🏅 Certifications and Achievements</h3>
   <a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url"></a>
-  ![Javatpoint](images/google-cybersec-assoc.png) 
 </div>
 
+![Javatpoint](images/google-cybersec-assoc.png) 
 
