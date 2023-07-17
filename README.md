@@ -9,7 +9,7 @@
   <p>My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspiring to delve further into the wide domain of Cybersecurity (Red/Blue Team), Networking Systems, Cloud Computing, and Web3-Based Blockchain Ecosystems. </p>
 
 <br></br>
-  <h3>🏅 Certifications and Achievements</h3>
+  ### 🏅 Certifications and Achievements
   <a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url">![Javatpoint](images/google-cybersec-assoc.png) </a>
 </div>
 
