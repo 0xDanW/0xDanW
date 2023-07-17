@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=00FF5B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=-+-+0xDanW+-+-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=00FF5B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=0xDanW)](https://git.io/typing-svg)
 
 ### Hi there, welcome to my GitHub profile! 👋
 
