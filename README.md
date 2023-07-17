@@ -12,7 +12,8 @@
 <br></br>
 <div align='center'>
   <h3>🏅 Certifications and Achievements</h3>
-  <a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url">![Google Cybersecurity Certificate](./images/google-cybersec-assoc.png)</a>
+  <a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url"></a>
+  ![CRTP](./images/google-cybersec-assoc.png "CRTP")
 </div>
 
 
