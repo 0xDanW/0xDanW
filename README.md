@@ -40,8 +40,8 @@
 <a href="https://drive.google.com/file/d/1YHB7QLFOKGVucWV7ZH8qD-S0dIeJLQ5e/view">![TCM Security Practical Ethical Hacking](./images/tcm-sec.png "TCM Security Practical Ethical Hacking")</a>
 <a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url">![Google Cybersecurity](./images/google-sec.png "Google Cybersecurity")</a>
 <a href="https://www.credly.com/badges/195e6d1f-6f41-418d-9484-c3c5d385e476/public_url">![Microsoft Azure AI-900](./images/ai900.png "Microsoft Azure AI-900")</a>
-<a href="https://www.credly.com/badges/460a3c4c-ef5c-4fe1-ac3e-977dd38bc2c7/public_url">![Microsoft Azure AZ-900](./images/az900.png "Microsoft Azure AZ-900")</a>
-<a href="https://www.credly.com/badges/ead76cff-9fed-40fa-81bd-dfb50178706e/linked_in_profile">![Microsoft Azure SC-900](./images/sc900.png "Microsoft Azure SC-900")</a>
+<a href="https://www.credly.com/badges/460a3c4c-ef5c-4fe1-ac3e-977dd38bc2c7/public_url">![Microsoft Azure AZ-900](./images/az-900.png "Microsoft Azure AZ-900")</a>
+<a href="https://www.credly.com/badges/ead76cff-9fed-40fa-81bd-dfb50178706e/linked_in_profile">![Microsoft Azure SC-900](./images/sc-900.png "Microsoft Azure SC-900")</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
