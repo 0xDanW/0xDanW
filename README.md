@@ -30,7 +30,7 @@
 ![Ansible](./images/ansible.png "Ansible")
 ![Terraform](./images/terraform.png "Terraform")
 ![Microsoft Azure](./images/azure.png "Microsoft Azure")
-![AWS](./images/aws-ligh.png "AWS")
+![AWS](./images/aws-light.png "AWS")
 ![Google Cloud Platform](./images/gcp.png "Google Cloud Platform")
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
