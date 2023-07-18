@@ -41,10 +41,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
 ### 📫 Connect with me
-[![Linkedin](./images/linkedin.png "Linkedin")](https://linkedin.com/in/wesleywong420/)
-[![Instagram](./images/instagram.png "Instagram")](https://linkedin.com/in/wesleywong420/)
-[![Github](./images/github.png "Github")](https://github.com/WesleyWong420)
-[![Discord](./images/discord.png "Discord")](http://discordapp.com/users/265481821142122517)
-[![Email](./images/mail.png "Email")](mailto:wesleywongkeehan@gmail.com)
+[![Linkedin](./images/linkedin.png "Linkedin")](https://www.linkedin.com/in/daniel-wong-yu-heng-276b0021a/)
+[![Instagram](./images/instagram.png "Instagram")](https://www.instagram.com/danielwyh_/)
+[![Github](./images/github.png "Github")](https://github.com/0xDanW)
+[![Discord](./images/discord.png "Discord")](http://discordapp.com/users/619386770475188234)
+[![Email](./images/mail.png "Email")](mailto:danielwyh.hello@gmail.com)
 
 </div>
