@@ -13,29 +13,11 @@
 <div align='center'>
   
 ### 🏅 Certifications and Achievements
-<a href="https://www.credential.net/df2366a8-5f68-4ce7-8470-80372ba8f484">![CRTP](./icons/crtp.png "CRTP")</a>
-<a href="https://www.credential.net/a9b4b408-7d22-48ce-8798-dcf106552482#gs.3o6vpp">![PNPT](./icons/pnpt.png "PNPT")</a>
-<a href="https://eu.badgr.com/public/assertions/3Ka2penDSCiL-3A3d24oxQ">![CRTO](./icons/crto.png "CRTO")</a>
-<a href="https://eu.badgr.com/public/assertions/DpIDGaoCSiiayWvbV3edMQ">![CRTL](./icons/crtl.png "CRTL")</a>
+
 
 --
 ### 🖥️ Tools and Languages
-![Kali Linux](./icons/kalilinux.png "Kali Linux")
-![Ghidra](./icons/Ghidra.png "Ghidra")
-![BinaryNinja](./icons/binaryninja.png "BinaryNinja")
-![IDA](./icons/idapro.png "IDA")
-![Cobalt Strike](./icons/cobaltstrike.png "Cobalt Strike")
-![BurpSuite](./icons/BurpSuite.png "BurpSuite")
-![Python](./icons/python.png "Python")
-![Java](./icons/java.png "Java")
-![Rust](./icons/rust.png "Rust")
-![C](./icons/c.png "C")
-![C++](./icons/cpp.png "C++")
-![C#](./icons/csharp.png "C#")
-![PowerShell](./icons/powershell.png "PowerShell")
-![VScode](./icons/vscode.png "VScode") 
-![Docker](./icons/docker.png "Docker")
-![Bloodhound](./icons/bloodhound.png "Bloodhound")
+
 
 
 </div>
