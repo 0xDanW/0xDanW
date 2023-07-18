@@ -7,10 +7,10 @@
   --
   <h3>Hi there, welcome to my GitHub profile! 👋</h3>
   <p>My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspiring to delve further into the wide domain of Cybersecurity (Red/Blue Team), Networking Systems, Cloud Computing, and Web3-Based Blockchain Ecosystems. </p>
+  --
 </div>
 
 <div align='center'>
-  --
 ### 🏅 Certifications and Achievements
 <a href="https://www.credential.net/df2366a8-5f68-4ce7-8470-80372ba8f484">![CRTP](./icons/crtp.png "CRTP")</a>
 <a href="https://www.credential.net/a9b4b408-7d22-48ce-8798-dcf106552482#gs.3o6vpp">![PNPT](./icons/pnpt.png "PNPT")</a>
