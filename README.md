@@ -20,7 +20,7 @@
 ![Hydra](./images/hydra.png "Hydra")
 ![Python](./images/python.png "Python")
 ![Java](./images/java.png "Java")
-![Go](./images/go.png "Go")
+![Go](./images/go-removebg-prev.png" "Go")
 ![PowerShell](./images/powershell.png "PowerShell")
 ![Bash](./images/bash.png "Bash")
 
