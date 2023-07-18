@@ -38,6 +38,7 @@
 ### 🏅 Certifications and Achievements
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=yhHxA35opmxSUBjynbeTeYYnkLpVhqB8kTXp9AzhxY8=">![CEH](./images/ceh.png "CEH")</a>
 <a href="https://drive.google.com/file/d/1YHB7QLFOKGVucWV7ZH8qD-S0dIeJLQ5e/view">![TCM Security Practical Ethical Hacking](./images/tcm-sec.png "TCM Security Practical Ethical Hacking")</a>
+<a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url">![Google Cybersecurity](./images/google-sec.png "Google Cybersecurity")</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
