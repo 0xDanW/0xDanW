@@ -20,9 +20,9 @@
 ![Hydra](./images/hydra.png "Hydra")
 ![Python](./images/python.png "Python")
 ![Java](./images/java.png "Java")
-![Go](./images/go-removebg-prev.png "Go")
 ![PowerShell](./images/powershell.png "PowerShell")
 ![Bash](./images/bash.png "Bash")
+![SQL](./images/sql.png "SQL")
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
