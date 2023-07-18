@@ -7,12 +7,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
-  <h3>Hi there, welcome to my GitHub profile! 👋</h3>
-  <p>My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspiring to delve further into the wide domain of Cybersecurity (Red/Blue Team), Networking Systems, Cloud Computing, and Web3-Based Blockchain Ecosystems. </p>
+<h3>Hi there, welcome to my GitHub profile! 👋</h3>
+<p>My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspiring to delve further into the wide domain of Cybersecurity (Red/Blue Team), Networking Systems, Cloud Computing, and Web3-Based Blockchain Ecosystems. </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
-<div align='center'>
   
 ### 🏅 Certifications and Achievements
 
