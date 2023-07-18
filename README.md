@@ -12,7 +12,7 @@
 
 <div align='center'>
 <br></br>
-  ### 🏅 Certifications and Achievements
+  <h3> 🏅 Certifications and Achievements</h3>
   <a href="https://www.credly.com/badges/403a1f86-2603-4c27-a451-7cfb9c142641/public_url">![Google Cybersecurity Certificate](images/google-cybersec.png) </a>
 </div>
 
