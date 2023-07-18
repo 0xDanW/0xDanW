@@ -23,6 +23,7 @@
 ![PowerShell](./images/powershell.png "PowerShell")
 ![Bash](./images/bash-ligh.png "Bash")
 ![SQL](./images/sql.png "SQL")
+![JavaScript](./images/js.png "JavaScript")
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
