@@ -24,6 +24,7 @@
 ![Bash](./images/bash-ligh.png "Bash")
 ![SQL](./images/sql.png "SQL")
 ![JavaScript](./images/javascript-block.png "JavaScript")
+![Solidity](./images/solidity.png "Solidity")
 ![Docker](./images/docker.png "Docker")
 ![Kubernetes](./images/kube.png "Kubernetes")
 ![Ansible](./images/ansible.png "Ansible")
