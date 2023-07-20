@@ -30,6 +30,7 @@
 ![AWS](./images/aws-logo.png "AWS")
 ![Google Cloud Platform](./images/gcp.png "Google Cloud Platform")
 
+<br></br>
 ### 🏅 Certifications and Achievements
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=yhHxA35opmxSUBjynbeTeYYnkLpVhqB8kTXp9AzhxY8=">![CEH](./images/ceh.png "CEH")</a>
 <a href="https://drive.google.com/file/d/1YHB7QLFOKGVucWV7ZH8qD-S0dIeJLQ5e/view">![TCM Security Practical Ethical Hacking](./images/tcm-sec.png "TCM Security Practical Ethical Hacking")</a>
@@ -39,6 +40,7 @@
 <a href="https://www.credly.com/badges/ead76cff-9fed-40fa-81bd-dfb50178706e/linked_in_profile">![Microsoft Azure SC-900](./images/sc-900.png "Microsoft Azure SC-900")</a>
 <a href="https://learn.opswatacademy.com/certificate/_H4vy8zJow">![Opswat ICIP](./images/icip.png "Opswat ICIP")</a>
 
+<br></br>
 ### 📫 Connect with me
 [![Linkedin](./images/linkedin.png "Linkedin")](https://www.linkedin.com/in/daniel-wong-yu-heng-276b0021a/)
 [![Instagram](./images/instagram.png "Instagram")](https://www.instagram.com/danielwyh_/)
