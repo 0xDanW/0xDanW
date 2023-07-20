@@ -3,14 +3,10 @@
 <h2 align='center'> <code>0xDanW@github:~$ whoami </code></h2>
 <p align='center'><b>Cybersecurity Enthusiast | Networking Geek | Cloud Computing | Blockchain Starter</b></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
-
 <div align='center'>
 
 <h3>Hi there, welcome to my GitHub profile! 👋</h3>
 <p>My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspiring to delve further into the wide domain of Cybersecurity (Red/Blue Team), Networking Systems, Cloud Computing, and Web3-Based Blockchain Ecosystems. </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
 ### 🖥️ Tools and Languages
 ![Kali Linux](./images/kalilinux.png "Kali Linux")
@@ -33,8 +29,6 @@
 ![AWS](./images/aws-logo.png "AWS")
 ![Google Cloud Platform](./images/gcp.png "Google Cloud Platform")
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
-
 ### 🏅 Certifications and Achievements
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=yhHxA35opmxSUBjynbeTeYYnkLpVhqB8kTXp9AzhxY8=">![CEH](./images/ceh.png "CEH")</a>
 <a href="https://drive.google.com/file/d/1YHB7QLFOKGVucWV7ZH8qD-S0dIeJLQ5e/view">![TCM Security Practical Ethical Hacking](./images/tcm-sec.png "TCM Security Practical Ethical Hacking")</a>
@@ -44,15 +38,11 @@
 <a href="https://www.credly.com/badges/ead76cff-9fed-40fa-81bd-dfb50178706e/linked_in_profile">![Microsoft Azure SC-900](./images/sc-900.png "Microsoft Azure SC-900")</a>
 <a href="https://learn.opswatacademy.com/certificate/_H4vy8zJow">![Opswat ICIP](./images/icip.png "Opswat ICIP")</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
-
 ### 📫 Connect with me
 [![Linkedin](./images/linkedin.png "Linkedin")](https://www.linkedin.com/in/daniel-wong-yu-heng-276b0021a/)
 [![Instagram](./images/instagram.png "Instagram")](https://www.instagram.com/danielwyh_/)
 [![Github](./images/github.png "Github")](https://github.com/0xDanW)
 [![Discord](./images/discord.png "Discord")](http://discordapp.com/users/619386770475188234)
 [![Email](./images/mail.png "Email")](mailto:danielwyh.hello@gmail.com)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=47F7F5&center=true&width=1000&lines=*+*+*+*+*)](https://git.io/typing-svg)
 
 </div>
