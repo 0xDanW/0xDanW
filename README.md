@@ -49,7 +49,3 @@
 [![Email](./images/mail.png "Email")](mailto:danielwyh.hello@gmail.com)
 
 </div>
-
-<div align='center'>
-![0xDanW's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xDanW&show_icons=true&theme=transparent)
-</div>
