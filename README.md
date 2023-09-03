@@ -50,5 +50,6 @@
 
 </div>
 
-[![0xDanW's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xDanW)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
 ![0xDanW's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xDanW&show_icons=true&theme=transparent)
+</div>
