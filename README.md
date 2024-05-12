@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=00FF5B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=0xDanW)](https://git.io/typing-svg)
 
 <h2 align='center'> <code>0xDanW@github:~$ whoami </code></h2>
-<p align='center'><b>Cybersecurity Enthusiast | Networking Geek | Cloud Computing | Blockchain Starter</b></p>
+<p align='center'><b>Cybersecurity | Networking | Cloud | Blockchain </b></p>
 
 <div align='center'>
 <br></br>
 <h3>Hi there, welcome to my GitHub profile! 👋</h3>
-<p>My name is Daniel Wong, currently a student pursuing a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspiring to delve further into the wide domain of Cybersecurity (Red/Blue Team), Networking, Cloud Computing, Distributed Systems, DevOps/SRE, and Web3-Based Blockchain Ecosystems. </p>
+<p>My name is Daniel Wong, a fresh graduate holding a degree in Bachelors of Information Technology (Computer Networking and Security) in Sunway University, Kuala Lumpur. Aspiring to delve further into the wide domain of Cybersecurity (Red/Blue Team), Networking, Cloud Computing, Distributed Systems, DevOps/SRE, and Web3-Based Blockchain Ecosystems. </p>
 
 <br></br>
 ### 🖥️ Tools and Languages
