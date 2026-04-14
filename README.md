@@ -14,13 +14,23 @@
 </div>
 
 ---
-### 📊 Github stats
+### 🛠️ &nbsp; Tech stack and certs 
+| 💻 &nbsp; **Code** | ☁️ &nbsp; **Cloud** | 🪄 &nbsp; **IAC** | 🔃 &nbsp; **CI/CD** | 🔍 &nbsp; **Observability** | 📜 &nbsp; **Certs** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| python | aws | docker | github actions | grafana | cka |
+| golang | gcp | kubernetes | codefresh | prometheus | ceh |
+| java | azure | helm | jenkins | datadog | chfi |
+| bash | digital ocean | terraform | argocd | victoriametrics | |
+| | | ansible | | opentelemetry | |
+
+---
+### 📊 &nbsp; Github stats
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdanw&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---
-### 📫 Connect with me
+### 📫 &nbsp; Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/daniel-wong-yu-heng-276b0021a" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
