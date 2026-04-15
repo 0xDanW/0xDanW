@@ -28,9 +28,7 @@
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdanw&theme=tokyonight" alt="Streak Stats" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=0xdanw">
-</a>
+  <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=0xdanw" />
 </div>
 
 ---
