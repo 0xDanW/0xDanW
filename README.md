@@ -29,6 +29,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdanw&theme=tokyonight" alt="Streak Stats" />
 
   <img alt="GitHub Stats Card" src="https://github-readme-stats.heroku.com/?username=0xdanw" />
+
+  <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdanw">
 </div>
 
 ---
