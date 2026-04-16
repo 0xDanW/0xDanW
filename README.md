@@ -7,7 +7,7 @@
 <div align='left'>
   <br></br>
   <h3>Hi there, welcome to my Github profile! 👋</h3>
-  <p>My name is Daniel Wong, a small SRE potato 🥔 who enjoys shipping scalable and resilient systems (and breaking them for learning 🫣) </p>
+  <p>My name is Daniel Wong, a small SRE potato 🥔 shipping scalable and resilient systems (and breaking them for learning 🫣) </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=0xdanw&label=Views&color=0e75b6&style=for-the-badge" />
   </p>
@@ -26,7 +26,8 @@
 ---
 ### 📊 &nbsp; Github stats
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdanw&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdanw&theme=tokyonight" alt="Streak Stats" /> &emsp; &emsp;
+  <img alt="0xDanW's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=0xdanw&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 </div>
 
 ---
