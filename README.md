@@ -25,9 +25,9 @@
 
 ---
 ### 📊 &nbsp; Github stats
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xdanw&theme=tokyonight" alt="Streak Stats" /> &emsp; &emsp;
-  <img align="center" alt="0xDanW's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=0xdanw&show_icons=true&count_private=true&theme=tokyonight&hide_border=false"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdanw&theme=tokyonight" alt="Streak Stats" />
+  <img alt="0xDanW's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=0xdanw&show_icons=true&count_private=true&theme=tokyonight&hide_border=false"/>
 </div>
 
 ---
